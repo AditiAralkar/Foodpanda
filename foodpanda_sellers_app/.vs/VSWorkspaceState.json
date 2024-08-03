@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\authentication",
+    "\\lib\\global",
+    "\\lib\\mainScreens",
+    "\\lib\\model",
+    "\\lib\\splashScreen",
+    "\\lib\\uploadScreens",
+    "\\lib\\widgets",
+    "\\test"
+  ],
+  "SelectedNode": "\\lib\\main.dart",
+  "PreviewInSolutionExplorer": false
+}
